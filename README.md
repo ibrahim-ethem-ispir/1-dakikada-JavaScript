@@ -1,3 +1,3 @@
-# 1-dakikada-JavaScript
+# 1 Dakikada JavaScript Videoları Oynatma Listesi
 
-# [Youtube Video Link](https://youtube.com/shorts/qZ4kvJeD8uk?feature=share)
+# [Youtube Video Link](https://www.youtube.com/playlist?list=PLPuj17Y2WkpCwmoGTR9eTKPrc0SGOVPUh)
